@@ -1,5 +1,4 @@
-puts "hello world"
+ "hello world"
 
 hello_world
 
-end
